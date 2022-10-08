@@ -1,3 +1,4 @@
  esto es mi segundo proyecto
  tengo 23 años
  soy de mexico
+ soy actualmente progreamador de javascrit
